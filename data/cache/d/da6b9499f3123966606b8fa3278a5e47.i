@@ -1,0 +1,5 @@
+a:11:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:195:"Dropbox, Processes, best practices, important things to consider, experiences, host acquisition process and status, sponsoren/partner liste google drive, presse, pioneerstickets
+Emails durchgehen";}i:2;i:1;}i:3;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:196;}i:4;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:196;}i:5;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:36:"Hosts process
+Sales process
+Strategy";}i:2;i:198;}i:6;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:234;}i:7;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:234;}i:8;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:92:"Daten von hosts verlangen im strukturierten format, auch sponsoren
+Dann intern immer updaten";}i:2;i:237;}i:9;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:329;}i:10;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:329;}}
