@@ -26,11 +26,14 @@ attachments: email inquiry template
 local marketing is key, we cannot support here, this is ur task!
 
 Qr Code auf Plakaten !
+
+
+imagecards, flyer, plakate, web-banner (puls 4)
 ====== Ticketing ====== 
 
 
 ^ Category ^ Sales period ^ Price ^ max. # ^ 
-| Early bird| 	Only until 3 weeks before the event	| 49 €| 
+| Early bird| Only until 4 weeks before the event	| 49 €| 
 | 2 for 1 (-20% per ticket) – Early bird	| Only the 4th weekend before the event	| 39 €| 
 | Team (3 or 4 people) – Early bird| Only until 3 weeks before the event	| 39 €| 
 | Normal| Starting after early bird phase ended	| 79 €| 
@@ -41,6 +44,9 @@ Qr Code auf Plakaten !
 In general you can always use promo codes with a 20% discount, especially give this to all your partners that promote within their community
 You should rarely lower to more than 20% and not arbitrarily set different discounts (20% for partner A, 50% for partner B); Remember that the ticket prices we suggest represent the value of the event (catering etc…), you should not sell your tickets too cheap!
 You can have 1 or 2 gewinnspiele, and selected promotion activities (just one day validity!) with a 50% discount, especially in the “Normal” phase
+
+
+ticket sales normal ends on thursday 6pm to give u time to create the badges. ppl who appear with registration can pay in cash
 
 ===== Data collection =====
 teilnehmer form von innsbruck als Basis nehmen, und check dropbox data sheet

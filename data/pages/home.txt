@@ -14,3 +14,9 @@ As a starting point, we recommend you to checking out our website and to go thro
 <html>&raquo;</html> [[hosts-event:home| Part 3: The event phase]]
 
 <html>&raquo;</html> [[hosts-aftercare:home| Part 4: The aftercare phase]]
+
+<html><br></html>
+__Additional information:__
+
+
+<html>&raquo;</html> [[hosts-faq:home| FAQ]]
